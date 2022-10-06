@@ -37,7 +37,7 @@ def FD():
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/swati.raj.902')
+        os.system('xdg-open https://www.facebook.com/Anaswarric')
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
